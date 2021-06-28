@@ -1,6 +1,6 @@
 import App from 'next/app';
 import { ThemeProvider } from "styled-components";
-import { GlobalStyle } from "./styledApp";
+import GlobalStyle from "./styledApp";
 import { AppProvider } from '../components/provider/index';
 import client from "../utils/client";
 import { DEFAULT_LOCATIONS } from "../queries";

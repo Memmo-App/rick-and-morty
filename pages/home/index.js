@@ -5,8 +5,8 @@ import LocationsView from '../../components/locationsView';
 import AnimatedCarousel from '../../components/animatedCarousel';
 import Filter from "../../components/filters";
 import Statistics from '../../components/statistics'
-import { StyledHome } from "./styledHome";
-import { StyledContainer } from "./styledContainer";
+import StyledHome from "./styledHome";
+import StyledContainer from "./styledContainer";
 import { FILTERED_LOCATIONS } from "../../queries";
 import { onFilterSelection, onFetchLocations } from "../../actions";
 import client from "../../utils/client";

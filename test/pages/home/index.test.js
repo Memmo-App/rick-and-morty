@@ -3,13 +3,9 @@
  */
 
  import "@testing-library/jest-dom";
- import ReactDOM from 'react-dom'
  import { render, screen, waitFor, fireEvent } from "@testing-library/react";
- 
- import { act } from 'react-dom/test-utils';
- import userEvent from '@testing-library/user-event';
- import HomePage from "./index";
- import { AppProvider } from "../../components/Provider";
+  import HomePage from "../../../pages/home/index";
+ import { AppProvider } from "../../../components/provider";
  
 const mockQuery = jest.fn();
 

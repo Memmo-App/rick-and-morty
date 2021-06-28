@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const StyledContainer = styled.div`
+const StyledContainer = styled.div`
 	flex-direction: row;
 	overflow: auto;
 
@@ -31,3 +31,4 @@ export const StyledContainer = styled.div`
 		}
 	}
 `
+export default StyledContainer;

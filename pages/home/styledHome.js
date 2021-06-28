@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const StyledHome = styled.section`
+const StyledHome = styled.section`
 	display: flex;
 	flex-direction: column;
 	height: 100%;
@@ -38,3 +38,5 @@ export const StyledHome = styled.section`
 		}	
 	}
 `;
+
+export default StyledHome;
