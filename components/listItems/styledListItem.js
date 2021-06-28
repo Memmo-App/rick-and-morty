@@ -43,7 +43,6 @@ export const StyledListSubContainer = styled.div`
 
 	div {
 		margin: 20px 0px !important;
-		
 	}
 
 	p {
