@@ -51,7 +51,7 @@ const Home = ({ initialLocations }) => {
 	return (
 		<StyledHome>
 			<Head>
-				<title>Ricky and Morty Universe</title>
+				<title>Rick and Morty Universe</title>
 				<meta name="description" content="Rick and Morty Universe using next and apollo client" />
 				<meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport" />
 				<meta name="keywords" content="Rick and Morty, react, nextjs, graphql, apollo" />
