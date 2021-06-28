@@ -52,9 +52,9 @@ const Home = ({ initialLocations }) => {
 		<StyledHome>
 			<Head>
 				<title>Ricky and Morty Universe</title>
-				<meta name="description" content="Ricky and Morty Universe using next and apollo client" />
+				<meta name="description" content="Rick and Morty Universe using next and apollo client" />
 				<meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport" />
-				<meta name="keywords" content="Ricky and Morty, react, nextjs, graphql, apollo" />
+				<meta name="keywords" content="Rick and Morty, react, nextjs, graphql, apollo" />
 				<meta name="canonical" content="https://thislink.com" />
 				<link rel="icon" href="/favicon.png"/>
 			</Head>
