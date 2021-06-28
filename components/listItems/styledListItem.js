@@ -27,6 +27,10 @@ export const StyledListSubContainer = styled.div`
 	padding: 20px 30px;
 	border-left: 1px solid white;
 
+	img {
+		border-radius: 3px;
+	}
+
 	ul {
 		padding: 0;
 
