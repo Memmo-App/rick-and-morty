@@ -8,6 +8,7 @@ const StyledAnimatedCarousel = styledAnimatedCarousel(Carousel)
 
 const itemTemplate = (resident) => {
 	if (!resident) return null;
+
 	return (
 		<div className="resident__container">
 			<motion.div
